@@ -1,0 +1,30 @@
+.lltitle1 {
+	font-family: "Century Gothic";
+	font-size: 30px;
+	font-weight: 400;
+	color: #300;
+	text-align: center;
+	margin-top: 40px;
+}
+.orangeline {
+	background-color: #e06604;
+	height: 4px;
+	width: 30%;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	text-align: center;
+}
+.llDesc {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	line-height: 24px;
+	color: #333;
+	letter-spacing: 0.1em;
+	text-align: center;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+}
