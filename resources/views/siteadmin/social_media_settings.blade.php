@@ -123,7 +123,7 @@
                     <label for="pass1" class="control-label col-lg-2">Twitter App ID<span class="text-sub">*</span></label>
 
                     <div class="col-lg-8">
-                         <input id="text1" name="twitter_app_id" value="<?php echo $social_details->sm_twitter_app_id; ?>" placeholder="291719054236926" class="form-control" type="text">
+                         <input id="text1" name="twitter_app_id" value="<?php echo $social_details->sm_twitter_app_id; ?>" placeholder="" class="form-control" type="text">
                     </div>
                 </div>
 
@@ -131,7 +131,7 @@
                     <label for="pass1" class="control-label col-lg-2">Twitter Secrect Key<span class="text-sub">*</span></label>
 
                     <div class="col-lg-8">
-                         <input id="text1" name="twitter_secret_key"  value="<?php echo $social_details->sm_twitter_sec_key; ?>" placeholder="b24927947a1adc1cff504bd4cbb16968" class="form-control" type="text">
+                         <input id="text1" name="twitter_secret_key"  value="<?php echo $social_details->sm_twitter_sec_key; ?>" placeholder="" class="form-control" type="text">
                     </div>
                 </div>
 				 <div class="form-group">
@@ -153,7 +153,7 @@
                     <label for="pass1" class="control-label col-lg-2">Gmap App Key<span class="text-sub">*</span></label>
 
                     <div class="col-lg-8">
-                         <input id="text1" name="gmap_app_key" value="<?php echo $social_details->sm_gmap_app_key; ?>" placeholder="b24927947a1adc1cff504bd4cbb16968" class="form-control" type="text">
+                         <input id="text1" name="gmap_app_key" value="<?php echo $social_details->sm_gmap_app_key; ?>" placeholder="" class="form-control" type="text">
                     </div>
                 </div>
 				 <div class="form-group">
