@@ -83,7 +83,7 @@
                     <label for="text1" class="control-label col-lg-2">Facebook App ID<span class="text-sub">*</span></label>
 
                     <div class="col-lg-8">
-                        <input id="text1" name="fb_app_id" value="<?php echo $social_details->sm_fb_app_id; ?>" placeholder="298683020274383" class="form-control" type="text">
+                        <input id="text1" name="fb_app_id" value="<?php echo $social_details->sm_fb_app_id; ?>" placeholder="" class="form-control" type="text">
                     </div>
                 </div>
 
@@ -91,7 +91,7 @@
                     <label for="pass1" class="control-label col-lg-2">Facebook Secrect Key<span class="text-sub">*</span></label>
 
                     <div class="col-lg-8">
-                         <input id="text1" name="fb_secret_key" value="<?php echo $social_details->sm_fb_sec_key; ?>" placeholder="4b30f51b1042d04fd6c3953b1944e509" class="form-control" type="text">
+                         <input id="text1" name="fb_secret_key" value="<?php echo $social_details->sm_fb_sec_key; ?>" placeholder="" class="form-control" type="text">
                     </div>
                 </div>
 
